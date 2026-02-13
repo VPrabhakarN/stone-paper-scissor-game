@@ -78,7 +78,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
----
+
 
 ### 4️⃣ Install Required Library
 
@@ -86,7 +86,7 @@ source venv/bin/activate
 pip install streamlit
 ```
 
----
+
 
 ### 5️⃣ Run the App
 
@@ -100,7 +100,7 @@ Then open:
 http://localhost:8501
 ```
 
----
+
 
 ## 🎮 How the Game Works
 
@@ -135,6 +135,7 @@ This project demonstrates:
 
 It’s a small project, but it reflects good problem-solving and practical application of Python concepts.
 
+---
 
 
 ## 👨‍💻 Author
