@@ -36,6 +36,8 @@ stone-paper-scissor/
 │
 ├── app.py
 ├── leaderboard.csv  (auto-created)
+├── Screenshots
+├── README.md
 │
 └── assets/
     ├── bg_music.mp3
