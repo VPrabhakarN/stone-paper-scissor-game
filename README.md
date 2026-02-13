@@ -4,7 +4,7 @@ This is a simple and interactive **Stone • Paper • Scissor** game built usin
 
 The player competes against the computer. The first to win 5 rounds wins the match. The game includes sound effects, a timer, and a leaderboard that records the fastest winners.
 
----
+
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ The player competes against the computer. The first to win 5 rounds wins the mat
 - 💾 CSV-based score storage (no database required)  
 - 🧠 Clean session state handling  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ The player competes against the computer. The first to win 5 rounds wins the mat
 
 No external database or heavy dependencies are used.
 
----
+
 
 ## 📂 Project Structure
 
@@ -44,7 +44,7 @@ stone-paper-scissor/
     └── lose.mp3
 ```
 
----
+
 
 ## 🚀 How to Run This Project
 
@@ -111,7 +111,7 @@ http://localhost:8501
 - If you win, you can save your time to the leaderboard.
 - Restart anytime to play again.
 
----
+
 
 ## 📊 Leaderboard
 
@@ -122,7 +122,7 @@ The leaderboard:
 - Displays ranking automatically
 - Uses a simple CSV file (no database)
 
----
+
 
 ## 📌 Why I Built This
 
@@ -135,7 +135,7 @@ This project demonstrates:
 
 It’s a small project, but it reflects good problem-solving and practical application of Python concepts.
 
----
+
 
 ## 👨‍💻 Author
 
