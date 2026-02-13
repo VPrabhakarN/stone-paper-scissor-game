@@ -4,6 +4,8 @@ This is a simple and interactive **Stone • Paper • Scissor** game built usin
 
 The player competes against the computer. The first to win 5 rounds wins the match. The game includes sound effects, a timer, and a leaderboard that records the fastest winners.
 
+🔗 **Live Demo:** [Click Here](https://stone-paper-sciappr-game-02.streamlit.app/)
+
 
 
 ## ✨ Features
